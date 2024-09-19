@@ -62,3 +62,4 @@ logs
 
 # Dossiers de build spécifiques à certains outils
 dist/
+.env
