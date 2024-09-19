@@ -25,6 +25,8 @@ yarn-error.log*
 # Variables d'environnement locales
 .env*.local
 
+.env
+
 # Vercel
 .vercel
 
@@ -62,4 +64,3 @@ logs
 
 # Dossiers de build spécifiques à certains outils
 dist/
-.env
